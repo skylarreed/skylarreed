@@ -1,11 +1,5 @@
 <h1 align="center">Hi 👋, my name is Skylar</h1>
-<h3 align="center">A computer science nerd who loves software engineering and learning new technologies.</h3>
-
-- 🌱 Languages I'm learning **Golang and Rust**
-
-- 👨‍💻 Check out my website! [https://skyl4rr.dev](https://skyl4rr.dev)
-
-- 📫 How to reach me **skyl4rr@outlook.com**
+<h3 align="center">A computer science nerd who loves software engineering.</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
