@@ -1,10 +1,41 @@
-<h1 align="center">Hi 👋, my name is Skylar</h1>
-<h3 align="center">A computer science nerd who loves software engineering.</h3>
+# Hi there, I'm Skylar Reed! 👋
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/skylarreed12" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="skylarreed12" height="30" width="40" /></a>
-</p>
+Welcome to my GitHub profile. I'm a passionate developer focused on building impactful software and solving complex problems.
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Skylar%20Reed-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/skylarreed12/)
+[![GitHub](https://img.shields.io/badge/GitHub-skylarreed-181717?style=flat&logo=github)](https://github.com/skylarreed)
+
+---
+
+### 🚀 About Me
+
+- 🔭 I’m currently working on **[Project Name or "Expanding my portfolio"]**
+- 🌱 I’m currently learning **[New Skill/Framework]**
+- 👯 I’m looking to collaborate on **[Open Source / Specific Interest]**
+- 💬 Ask me about **[Your Core Skills]**
+- 📫 How to reach me: **[Your Email]**
+
+---
+
+### 🛠️ Tech Stack
+
+**Languages**
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+**Frameworks & Tools**
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+---
+
+### 📊 GitHub Stats
+
+<div align="center">
+
+[![Skylar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=skylarreed&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=skylarreed&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+</div>
+
+---
