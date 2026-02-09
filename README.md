@@ -32,9 +32,9 @@ Welcome to my GitHub profile. I'm a passionate developer focused on building imp
 
 <div align="center">
 
-[![Skylar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=skylarreed&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+![Skylar's GitHub stats](https://github-readme-stats.vercel.app/api?username=skylarreed&show_icons=true&theme=radical)]
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=skylarreed&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=skylarreed&layout=compact&theme=radical)]
 
 </div>
 
