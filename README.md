@@ -1,41 +1,33 @@
-# Hi there, I'm Skylar Reed! 👋
+# Hi there, I'm Skylar 👋
 
-Welcome to my GitHub profile. I'm a passionate developer focused on building impactful software and solving complex problems.
+## About Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Skylar%20Reed-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/skylarreed12/)
-[![GitHub](https://img.shields.io/badge/GitHub-skylarreed-181717?style=flat&logo=github)](https://github.com/skylarreed)
-
----
-
-### 🚀 About Me
-
-- 🔭 I’m currently working on **[Project Name or "Expanding my portfolio"]**
-- 🌱 I’m currently learning **[New Skill/Framework]**
-- 👯 I’m looking to collaborate on **[Open Source / Specific Interest]**
-- 💬 Ask me about **[Your Core Skills]**
-- 📫 How to reach me: **[Your Email]**
+A passionate developer who loves building things and learning new technologies.
 
 ---
 
-### 🛠️ Tech Stack
+## 🛠️ Languages & Tools
 
-**Languages**
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-**Frameworks & Tools**
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
----
-
-### 📊 GitHub Stats
-
-<div align="center">
-
-![Skylar's GitHub stats](https://github-readme-stats.vercel.app/api?username=skylarreed&show_icons=true&theme=radical)]
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=skylarreed&layout=compact&theme=radical)]
-
-</div>
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 
 ---
+
+## 📊 GitHub Stats
+
+![Skylar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=skylarreed&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=skylarreed&layout=compact&theme=radical)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=skylarreed&theme=radical)
+
+---
+
+## 📫 How to Reach Me
+
+- **Email:** your.email@example.com
+- **LinkedIn:** [Skylar Reed](https://linkedin.com/in/skylarreed12)
