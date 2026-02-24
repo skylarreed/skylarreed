@@ -23,7 +23,7 @@ A passionate developer who loves building things and learning new technologies.
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=skylarreed&layout=compact&theme=radical)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=skylarreed&theme=radical)
+![GitHub Streak](https://streak-stats.demolab.com/?user=skylarreed&theme=radical)
 
 ---
 
